@@ -1,0 +1,9 @@
+# .gitignore
+
+.DS_Store
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+
+**/*.xcodeproj/*
+!**/*.xcodeproj/project.pbxproj
+.idea/**
